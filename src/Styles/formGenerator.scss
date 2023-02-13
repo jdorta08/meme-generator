@@ -1,0 +1,19 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 800px;
+  margin: 0 auto;
+}
+.input-form-wrapper {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+  gap: 5%;
+  width: 100%;
+}
+.form-text-input {
+  padding: 10px 27px;
+  color: black;
+}
